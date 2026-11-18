@@ -21,3 +21,16 @@ Dedicated public binary release repository for Android TV & Set-Top Box Photo Fr
     ```text
     https://gitee.com/shanghai-noodle/androidTV-photo-slideshow-releases/releases/download/v1.0.0/baidu-photos-tv-slideshow.apk
     ```
+  - **百度相框中文图文使用说明书 PDF (`baidu-photo-frame-user-guide-zh.pdf`)**:
+    - **Gitee Release 直链**:
+      ```text
+      https://gitee.com/shanghai-noodle/androidTV-photo-slideshow-releases/releases/download/v1.0.0/baidu-photo-frame-user-guide-zh.pdf
+      ```
+    - **Gitee 仓库直链**:
+      ```text
+      https://gitee.com/shanghai-noodle/androidTV-photo-slideshow-releases/raw/main/baidu-photo-frame-user-guide-zh.pdf
+      ```
+    - **GitHub Release 直链**:
+      ```text
+      https://github.com/shanghai-noodle/androidTV-photo-slideshow-releases/releases/latest/download/baidu-photo-frame-user-guide-zh.pdf
+      ```
