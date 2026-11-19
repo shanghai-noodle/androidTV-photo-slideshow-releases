@@ -58,7 +58,8 @@ fi
 # 3. Upload to Gitee Releases in background (since US->China upload is ~25 KB/s)
 GITEE_TOKEN_FILE="${HOME}/.gitee_token"
 if [ -s "$GITEE_TOKEN_FILE" ]; then
-    APK_COPY="/tmp/gitee_staging_${APK_NAME}"
+    mkdir -p /tmp/gitee_staging
+    APK_COPY="/tmp/gitee_staging/${APK_NAME}"
     cp -f "$APK_PATH" "$APK_COPY"
     LOG_FILE="/tmp/gitee_publish_${APK_NAME}.log"
     echo "☁️  [Gitee] Syncing ${APK_NAME} to Gitee Release in background (log: ${LOG_FILE})..."
