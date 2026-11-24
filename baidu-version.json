@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "1.0.52",
-  "sha256": "1becaf84a97eebc6c756d3dbcf481cf59603ea5ff682445b617a11cc0a0777f3",
+  "versionCode": 53,
+  "versionName": "1.0.53",
+  "sha256": "7c30dc1f152880c8a58c9155177c825d6e5a2727b98f0baaa5215cd0733c5e22",
   "apkUrl": "https://github.com/shanghai-noodle/androidTV-photo-slideshow-releases/releases/latest/download/baidu-photos-tv-slideshow.apk",
   "giteeApkUrl": "https://gitee.com/shanghai-noodle/androidTV-photo-slideshow-releases/releases/download/v1.0.0/baidu-photos-tv-slideshow.apk"
 }
