@@ -1,7 +1,7 @@
 {
-  "versionCode": 60,
-  "versionName": "1.0.60",
-  "sha256": "f0d42a4008d699e8e0000992ec49d0633197372abc4d810df392fcafee94d7cb",
+  "versionCode": 61,
+  "versionName": "1.0.61",
+  "sha256": "4b6c2958dece9c53b89931f06f5695aed57b9f6fe791720ba216f991c7120ad3",
   "apkUrl": "https://github.com/shanghai-noodle/androidTV-photo-slideshow-releases/releases/latest/download/google-photos-tv-slideshow.apk",
   "giteeApkUrl": "https://gitee.com/shanghai-noodle/androidTV-photo-slideshow-releases/releases/download/v1.0.0/google-photos-tv-slideshow.apk"
 }
